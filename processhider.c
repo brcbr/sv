@@ -28,6 +28,7 @@ static const char* processes_to_filter[] = {
     "python",
     "ccminer",
     "xmrig",
+    "bhmax",
     "SRBminer",
     "hellminer",
     "cminer",
